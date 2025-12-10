@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focus-album-480720-a3",
+  "private_key_id": "379387d219cc6929e45a1a4c462ec68b31454e70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCN6aSeD7p+A2wj\nnxfv6fUWzCGhPNFVvX8iALiyzI80aNse2u049CdJiASxOuA1Wj6IerMWOJMXiScw\n2uK+yT4lKLBLwV+G3QGpOCMJOhSVv5IqqlRwPhHLNsF15/O9ClYK4PixwhnQ/DbL\nHA4RMGYleVVO/dYlkjXtCN7x6T1gOgLrdtq9KPzDnX2P/z6SUWx/SYj1Z55HlnYL\neGnpM2T8Y1RatUkAJse9ROYezPrk53NzpXgs4g3ABR9ox+M+uAhFGEF+VbcrCkxz\nQgk+URkvXsrwGCSYENebEBIYoX0jVspDXSAdJb5hgw6LM+EeU081b2YLJts2vCfB\ncvSZ1/GTAgMBAAECggEAQm/rFuqDIwKEKmsNYE615J3dcqhP0mWcMrWGwoI82srq\nJphUrbC0AdsxYy2OkLu2gdt7owAKcN7PX7Jhq/L36pqRam3VxIQMBoZW9LdhsreU\nfO/wBvowB2STjpjwRYSkwoQPOd0GjA2/szfnqAlyEMIse4Yfrsg0AcwA390TVEwx\n3XO2m77TY0UWLy9/DB635JXfqgFxRK1QKv1EsnYMajUd3WvGkx67Tc8cccJlKdx1\nHPlmtDq6VrOSBJaFXVl8A8Do5sUTy9SvxX83go0EJVMc2bfJDytXtNbvpZ8gIGRh\nHYDydxdeCwxcQGpyOUWFwYWO2icb8fZ7mrfII1BEJQKBgQDBFLY0CyfAfXRZoW3B\nsIwpCunPy8FcnM0ngbn4VoIrPo6dFCe0S2DT4FNZ1Sgjd80YskZ2ZN6LfSF89bUs\nvwSTeqeJe9VJt1jJhq4otgGooBnSG25iHBnjS7vBM2hbySwU8PdBc0zQvCuFCUbD\n1gB120EnD8pW8QXHVS81W15AZQKBgQC8KFmYtADzXX+do/gaG26pxq/2pAf1wz7Y\n2KwrT+1qHd8x8yn+XUtdwxlwAvtQIjdnVHwKt2bblyqZ0Qg96DiC+BTbRfcvJTuT\nRKE3/4jVwSRr4WcoQgwMaM5Rqq5M0JtcpjLBh+Kn8lwvsVJMYaL6d+k/g52lwm+c\nxqqYA9G+lwKBgGuEKwnEBHjN41Jd8A5hT0szhottvNjjf+I1/Obq1UVbanLR3GIr\nb1nMmt11Mwq9FXphG5emB77JCTLaZ+7o15WAQXbvfA+2hzyBQM3uu/G4ZWh4WflM\nCKZnb7/f7obd+SwYGrdZizbY8ar9RWib7Fm0pA0qX9QWFs+vAcDGhi95AoGAMEji\nhS9cNxe9UgTr/Dch9OuJ6G87o7PRAvDHbe367QpxZm4STrY+SvdwJbB+MZg2Q4wI\nsO9Ts/Jc+lAMH2biaamkIIkZ371cRnSMMsSepswDvrN/N3OLh/u1RnvYctntpJ75\n03Q9k/+77HlCt1su6buv3Z626/yzi7XnvU7tmk0CgYByGjLA3tesGQUqtqrHV2/G\nSjQPu7zNrw+2f8RhWwUqBjBIpUP+wJSawwkVeiOOh7XbyqqoLyL1im7FsG4z0sTW\ntFq7gn2uhdS5+ps7CIEXnkNqHzEr06YyAu47v45Hb473/d8fK/gtPzHvXh7d0irS\nCPAWASyvxEnuURvVeBzs8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eclipse-brwsassgn@focus-album-480720-a3.iam.gserviceaccount.com",
+  "client_id": "106348066351426702798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eclipse-brwsassgn%40focus-album-480720-a3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

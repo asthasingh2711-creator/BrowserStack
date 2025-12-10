@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-11T02:24:19 IST" name="Desktop Parallel Suite" finished-at="2025-12-11T02:25:18 IST" duration-ms="58901">
+    <groups>
+    </groups>
+    <test started-at="2025-12-11T02:24:19 IST" name="Safari-macOS" finished-at="2025-12-11T02:24:45 IST" duration-ms="25081">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTest@5aebe890]" started-at="2025-12-11T02:24:19 IST" name="setUp" finished-at="2025-12-11T02:24:32 IST" duration-ms="12130" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Monterey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageIsInSpanish()[pri:0, instance:tests.HomePageTest@5aebe890]" started-at="2025-12-11T02:24:32 IST" name="verifyHomePageIsInSpanish" finished-at="2025-12-11T02:24:43 IST" duration-ms="11333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageIsInSpanish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@5aebe890]" started-at="2025-12-11T02:24:43 IST" name="tearDown" finished-at="2025-12-11T02:24:45 IST" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Safari-macOS -->
+    <test started-at="2025-12-11T02:24:19 IST" name="Chrome-Windows" finished-at="2025-12-11T02:24:47 IST" duration-ms="27819">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTest@815b41f]" started-at="2025-12-11T02:24:19 IST" name="setUp" finished-at="2025-12-11T02:24:32 IST" duration-ms="12132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageIsInSpanish()[pri:0, instance:tests.HomePageTest@815b41f]" started-at="2025-12-11T02:24:32 IST" name="verifyHomePageIsInSpanish" finished-at="2025-12-11T02:24:46 IST" duration-ms="14275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageIsInSpanish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@815b41f]" started-at="2025-12-11T02:24:46 IST" name="tearDown" finished-at="2025-12-11T02:24:47 IST" duration-ms="1394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Chrome-Windows -->
+    <test started-at="2025-12-11T02:24:19 IST" name="Chrome-macOS" finished-at="2025-12-11T02:24:48 IST" duration-ms="28081">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTest@399c4be1]" started-at="2025-12-11T02:24:19 IST" name="setUp" finished-at="2025-12-11T02:24:34 IST" duration-ms="15014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Monterey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageIsInSpanish()[pri:0, instance:tests.HomePageTest@399c4be1]" started-at="2025-12-11T02:24:34 IST" name="verifyHomePageIsInSpanish" finished-at="2025-12-11T02:24:46 IST" duration-ms="11485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageIsInSpanish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@399c4be1]" started-at="2025-12-11T02:24:46 IST" name="tearDown" finished-at="2025-12-11T02:24:48 IST" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Chrome-macOS -->
+    <test started-at="2025-12-11T02:24:19 IST" name="Firefox-Windows" finished-at="2025-12-11T02:24:56 IST" duration-ms="36100">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTest@394df057]" started-at="2025-12-11T02:24:19 IST" name="setUp" finished-at="2025-12-11T02:24:42 IST" duration-ms="22569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageIsInSpanish()[pri:0, instance:tests.HomePageTest@394df057]" started-at="2025-12-11T02:24:42 IST" name="verifyHomePageIsInSpanish" finished-at="2025-12-11T02:24:54 IST" duration-ms="12026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageIsInSpanish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@394df057]" started-at="2025-12-11T02:24:54 IST" name="tearDown" finished-at="2025-12-11T02:24:56 IST" duration-ms="1485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Firefox-Windows -->
+    <test started-at="2025-12-11T02:24:19 IST" name="Edge-Windows" finished-at="2025-12-11T02:25:18 IST" duration-ms="58901">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTest@707194ba]" started-at="2025-12-11T02:24:19 IST" name="setUp" finished-at="2025-12-11T02:24:39 IST" duration-ms="19655" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageIsInSpanish()[pri:0, instance:tests.HomePageTest@707194ba]" started-at="2025-12-11T02:24:39 IST" name="verifyHomePageIsInSpanish" finished-at="2025-12-11T02:25:17 IST" duration-ms="37447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageIsInSpanish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@707194ba]" started-at="2025-12-11T02:25:17 IST" name="tearDown" finished-at="2025-12-11T02:25:18 IST" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Edge-Windows -->
+  </suite> <!-- Desktop Parallel Suite -->
+</testng-results>
