@@ -104,9 +104,6 @@ public class OpinionPage {
             if (entry.getValue() > 2) {
                 System.out.println("Repeated word → " + entry.getKey() + " appears " + entry.getValue() + " times");
             }
-            else {
-            	System.out.println("NA");
-            }
         }
         System.out.println("===================================");
     }
